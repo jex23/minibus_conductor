@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "327521691196",
+    "project_id": "minibus-final",
+    "storage_bucket": "minibus-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327521691196:android:7a49bf56493199bc5f4539",
+        "android_client_info": {
+          "package_name": "com.example.minibus_conductor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb2SawrXt2C_jwMHI8FSQyJnVAwtMBnUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327521691196:android:e47f609bda04c48c5f4539",
+        "android_client_info": {
+          "package_name": "com.example.minibus_passenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb2SawrXt2C_jwMHI8FSQyJnVAwtMBnUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
